@@ -105,7 +105,7 @@ void mingcha(struct student *phead)
         
         psearch=psearch->next;
     }
-    printf("WRong!\n\n");
+    printf("Wrong!\n\n");
 }
 
 
